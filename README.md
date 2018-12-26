@@ -5,13 +5,13 @@ This code was made for educational purposes, so you can use it as you please (in
 
 
 ## Chapter 2 - Roots of a real function
-  * *Bisection method* : bisec.cpp
-  * *Regula Falsi method* :  regula_falsi.cpp
-  * *Newton method for systems of equantions* : newton_sys.cpp
-  * *Picard-Peano method for systems of equations* : picard_peano_sys.cpp 
+  * **Bisection method** : bisec.cpp
+  * **Regula Falsi method** :  regula_falsi.cpp
+  * **Newton method for systems of equantions** : newton_sys.cpp
+  * **Picard-Peano method for systems of equations** : picard_peano_sys.cpp 
 
 
 ## Sources 
-  *Jaime E. Villate - Métodos Numéricos, 2015 - ISBN: 9789729939631 available [here](https://def.fe.up.pt/numericos/index.html) 
-  *Carlos Madureira, Cristina Vila, José Soeiro Carvalho - Métodos Numéricos, um curso para o Mestrado  Integrado em Engenharia Informática e Computadores da FEUP, 2015
-  *Class notes from prof. Maria de Lurdes Dinis' classes  
+  * Jaime E. Villate - Métodos Numéricos, 2015 - ISBN: 9789729939631 available [here](https://def.fe.up.pt/numericos/index.html) 
+  * Carlos Madureira, Cristina Vila, José Soeiro Carvalho - Métodos Numéricos, um curso para o Mestrado  Integrado em Engenharia Informática e Computadores da FEUP, 2015
+  * Class notes from prof. Maria de Lurdes Dinis' classes  
