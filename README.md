@@ -10,6 +10,11 @@ This code was made for educational purposes, so you can use it as you please (in
   * **Newton method for systems of equantions** : newton_sys.cpp
   * **Picard-Peano method for systems of equations** : picard_peano_sys.cpp 
 
+## Chapter 3 - Systems of linear equations
+  * **Gaussian elimination** : gauss_elim2.cpp
+  * **Gauss-Jacobi method** : gauss_jacobi.cpp
+  * **Gauss-Seidel method** : gauss_seidel.cpp
+
 
 ## Chapter 4 - Integration
   * **Trapezoidal rule** : integration.cpp
