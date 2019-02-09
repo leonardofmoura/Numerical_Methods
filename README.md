@@ -5,35 +5,35 @@ This code was made for educational purposes, so you can use it as you please (in
 
 
 ## Chapter 2 - Roots of a real function
-  * **Bisection method** : bisec.cpp
-  * **Regula Falsi method** :  regula_falsi.cpp
-  * **Newton method for systems of equantions** : newton_sys.cpp
-  * **Picard-Peano method for systems of equations** : picard_peano_sys.cpp 
+  * **Bisection method** : [bisec.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%202/bisec.cpp)
+  * **Regula Falsi method** :  [regula_falsi.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%202/regula_falsi.cpp)
+  * **Newton method for systems of equantions** : [newton_sys.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%202/newton_sys.cpp)
+  * **Picard-Peano method for systems of equations** : [picard_peano_sys.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%202/picard_peanao_sys.cpp) 
 
 ## Chapter 3 - Systems of linear equations
-  * **Gaussian elimination** : gauss_elim2.cpp
-  * **Gauss-Jacobi method** : gauss_jacobi.cpp
-  * **Gauss-Seidel method** : gauss_seidel.cpp
+  * **Gaussian elimination** : [gauss_elim2.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%203/gauss_elim2.cpp)
+  * **Gauss-Jacobi method** : [gauss_jacobi.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%203/gauss_jacobi.cpp)
+  * **Gauss-Seidel method** : [gauss_seidel.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%203/gauss_seidel.cpp)
 
 
 ## Chapter 4 - Integration
-  * **Trapezoidal rule** : integration.cpp
-  * **Simpson's rule** : integration.cpp
-  * **Simpson's rule for double integrals** : cubatura.cpp
+  * **Trapezoidal rule** : [integration.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%204/integration.cpp)
+  * **Simpson's rule** : [integration.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%204/integration.cpp)
+  * **Simpson's rule for double integrals** : [cubatura.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%204/cubatura.cpp)
 
 
 ## Chapter 5 - Integration of ordinary differential equations
-  * **Euler's method** : diff_euler.cpp
-  * **Euler's method for systems of differential equations** : diff_sys_euler.cpp
-  * **Second order Runge-Kutta method** : diff_rk2.cpp
-  * **Fourth order Runge-Kutta method** : diff_rk4.cpp
-  * **Second order Runge-Kutta method for systems of differential equations** : diff_sys_rk2.cpp
+  * **Euler's method** : [diff_euler.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%205/diff_euler.cpp)
+  * **Euler's method for systems of differential equations** : [diff_sys_euler.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%205/diff_sys_euler.cpp)
+  * **Second order Runge-Kutta method** : [diff_rk2.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%205/diff_rk2.cpp)
+  * **Fourth order Runge-Kutta method** : [diff_rk4.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%205/diff_rk4.cpp)
+  * **Second order Runge-Kutta method for systems of differential equations** : [diff_sys_rk2.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%205/diff_sys_rk2.cpp)
 
 
 ## Chapter 6 - Mathematical Optimization
-  * **Golden-section search method** : aurea.cpp 
-  * **Gradient method** : gradiente.cpp 
-  * **Levenberg-Marquadt method** : levenberg_marquadt.cpp
+  * **Golden-section search method** : [aurea.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%206/aurea.cpp) 
+  * **Gradient method** : [gradiente.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%206/gradiente.cpp) 
+  * **Levenberg-Marquadt method** : [levenberg_marquadt.cpp](https://github.com/leonardofmoura/FEUP-MNUM/blob/master/Chapter%206/levenberg_marquadt.cpp)
 
 
 ## Sources 
