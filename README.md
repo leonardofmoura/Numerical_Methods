@@ -30,6 +30,12 @@ This code was made for educational purposes, so you can use it as you please (in
   * **Second order Runge-Kutta method for systems of differential equations** : diff_sys_rk2.cpp
 
 
+## Chapter 6 - Mathematical Optimization
+  * **Golden-section search method** : aurea.cpp 
+  * **Gradient method** : gradiente.cpp 
+  * **Levenberg-Marquadt method** : levenberg_marquadt.cpp
+
+
 ## Sources 
   * Jaime E. Villate - Métodos Numéricos, 2015 - ISBN: 9789729939631 available [here](https://def.fe.up.pt/numericos/index.html) 
   * Carlos Madureira, Cristina Vila, José Soeiro Carvalho - Métodos Numéricos, um curso para o Mestrado  Integrado em Engenharia Informática e Computadores da FEUP, 2015
